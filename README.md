@@ -16,4 +16,6 @@ Quando se trata de arquivos maiores, o pandas pode não ser a ferramenta mais r�
 
 Mas isso não quer dizer que você vai deixar de usar o panda visto que o pandas ainda é a melhor ferramenta para análise de dados em Python.
 
+Ao perceber que o pandas está lento use o vaex para filtrar as entradas e depois continue as analises com o pandas.
+
 Guarde na sua caixa de ferramentas.
