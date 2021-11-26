@@ -6,7 +6,7 @@ Para rodar este exemplo você pode baixar o código e em seguida executar o coma
 
 # Comparando Vaex com Pandas
 
-Ao executar o código que está nesse repositório podemos perceber a diferença
+Ao executar o código que está nesse repositório podemos perceber a diferença.
 
 ![vaex_exemplo](https://user-images.githubusercontent.com/43552576/143509459-425163f5-8567-42e6-b029-c7914ed797c0.JPG)
 
